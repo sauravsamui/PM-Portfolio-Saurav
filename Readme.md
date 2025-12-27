@@ -30,7 +30,7 @@ This repository is a portfolio of AI-focused projects, prompts and demos created
 Replace the placeholders above with your real contact links and details.
 
 ## How to preview
-Open the demo directly: [LLM-Playground/index.html](LLM-Playground/index.html)  
+Open the demo directly: https://parameter-playpen.lovable.app
 Or serve locally from repo root:
 ```sh
 python -m http.server 8000
